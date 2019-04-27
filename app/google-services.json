@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656907252540",
+    "firebase_url": "https://sufftext-manager-products.firebaseio.com",
+    "project_id": "sufftext-manager-products",
+    "storage_bucket": "sufftext-manager-products.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656907252540:android:395f27f516c37606",
+        "android_client_info": {
+          "package_name": "com.factory.datasoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656907252540-8oum9imi735or3lfiueq4ka010nhic3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB070IlEQBMXbLRYLyiiO9S5DK1Rw2XvVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656907252540-8oum9imi735or3lfiueq4ka010nhic3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
